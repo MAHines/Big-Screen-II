@@ -1,0 +1,23 @@
+Release Notes
+=============
+
+Version 1.5 Jun 21, 2020
+– Recompiled with new version of Xcode to prevent crash on launch.
+
+Version 1.4 Mar 23, 2020
+- Added ability to set exposure manually
+
+Version 1.3 Mar 5, 2020
+- Added visual feedback for tap to focus
+– Added support for triple cameras (e.g., iPhone 11 Pro)
+
+Version 1.2 Feb 29, 2020
+- Prevents tap to focus outside image
+
+Version 1.1 Feb 16, 2020
+- Added tap to focus, double tap to autofocus
+
+Version 1.0 Feb 14, 2020
+- Initial release submitted to Apple.
+
+
