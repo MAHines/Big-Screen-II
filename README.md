@@ -30,7 +30,7 @@ flips the image horizontally, the lecturer's writing is not reversed.
 Unlike a traditional white board, the lecturer cannot obstruct the
 writing. A full description of the whiteboard is given in E. S.
 Skibinski, W. J. I. DeBenedetti, A. G. Ortoll-Bloch, and M. A. Hines, "A
-Blackboard for the 21^st^ Century: An Inexpensive Light Board Projection
+Blackboard for the 21<sup>st</sup> Century: An Inexpensive Light Board Projection
 System for Classroom Use," *J. Chem. Educ.* **92,** 1754 (2015).
 
 ![Schematic](www/Schematic.png)
